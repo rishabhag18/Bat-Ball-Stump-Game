@@ -1,0 +1,19 @@
+.choice-button{
+    height: 100px;
+    width: 100px;
+    margin: 5px 10px;
+    border-radius: 75px;
+    border: none;
+    background-color: rgb(154, 208, 255);
+    cursor: pointer;
+}
+.choice-image{
+    height: 70px;
+}
+.reset-button{
+    padding: 10px 50px;
+    border-radius: 15px;
+    border: 2px solid rgb(158, 209, 81);
+    background-color:rgb(201, 241, 141);
+    cursor: pointer;
+}
